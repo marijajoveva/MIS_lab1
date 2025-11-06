@@ -1,16 +1,17 @@
-# lab1
+# lab1 - Распоред за испити - 223018
 
-A new Flutter project.
+Ова е Flutter апликација за прикажување на распоред на испити.
 
-## Getting Started
+## Функционалности
+- Почетен екран со листа на испити
+- Прикажување на: име на предмет, датум и време, простории
+- Испитите се подредени хронолошки
+- Користење на различни бои за положени и наредни испити
+- Картички (Card widget) за секој испит
+- Детален преглед на испит при клик
+- Прикажување на време до испитот (X дена, Y часа)
 
-This project is a starting point for a Flutter application.
+## Технологии
+- Flutter SDK
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
